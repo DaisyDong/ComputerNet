@@ -1,0 +1,22 @@
+GET http://pb.sogou.com/pv.gif?uigs_productid=ufo&ufoid=qqdaohang&rdk=1432226421313&img=ct.gif&url=http%3A%2F%2Fwww.renren.com%2F&urlName=%E4%BA%BA%20%E4%BA%BA%20%E7%BD%91&tag=null&module=wc_0_%E5%90%8D%E7%AB%99%E5%AF%BC%E8%88%AA&spid=&ssuv=e4286c376fc94f4bb41ae3d8ee89eedc&suid=&yyid=&sduv=&seuv=&m=&apid=&loc=CN2301&sect=&sev=&ser=&skin=&ipt=&pid=AQ7CZ&sogou-hp=-2&pos=299_332&refer=&page=%E4%B8%8A%E7%BD%91%E5%AF%BC%E8%88%AA%20-%20%E8%BD%BB%E5%BF%AB%E4%B8%8A%E7%BD%91%20%E4%BB%8E%E8%BF%99%E9%87%8C%E5%BC%80%E5%A7%8B&pageUrl=http%3A%2F%2Fhao.qq.com%2F%3Func%3DAf31011%26s%3Do400493_1&_uiid=&_unc=Af31011&_logined=0&_sid=0&_cid=0&_v=0&productid=qqdaohang&ptype=index&pcode=index2&pstr=&deen=sogou&cuen=sogou&cuch=web HTTP/1.1
+Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
+Referer: http://hao.qq.com/?unc=Af31011&s=o400493_1
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Proxy-Connection: Keep-Alive
+DNT: 1
+Host: pb.sogou.com
+Cookie: IPLOC=CN2301; SUID=0AF4D9DB4418920A000000005554157F; SUV=007475FADBD9F40A55541580B04D2859
+
+GET http://www.renren.com/ HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://hao.qq.com/?unc=Af31011&s=o400493_1
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.8,en-US;q=0.5,en;q=0.3
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Proxy-Connection: Keep-Alive
+DNT: 1
+Host: www.renren.com
+Cookie: anonymid=i9r3rlp2d37jbw; depovince=HLJ; _r01_=1; jebe_key=9e5f3299-2f2c-4492-8624-7e9f49bfb335%7Ccfcd208495d565ef66e7dff9f98764da%7C1431792753245%7C0%7C1432133142320; jebecookies=5aa9e704-254d-42e9-9436-fffff902647a|||||; JSESSIONID=abcEYM59rrEGnb5rJo31u
+

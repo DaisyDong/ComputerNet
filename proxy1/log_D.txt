@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 21 May 2015 16:40:19 GMT
+Content-Type: text/xml
+Content-Length: 0
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Server: nginx/1.2.0
+Date: Thu, 21 May 2015 16:40:19 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: jebecookies=c8f95345-e1ce-4cfa-8dd9-f669f1f4d1eb|||||; domain=.renren.com; path=/
+Content-Encoding: gzip
+
