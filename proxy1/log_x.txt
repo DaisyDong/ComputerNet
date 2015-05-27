@@ -1,0 +1,206 @@
+GET http://pb.sogou.com/pv.gif?uigs_productid=ufo&ufoid=qqdaohang&rdk=1432364622216&img=ct.gif&url=http%3A%2F%2Fwww.renren.com%2F&urlName=%E4%BA%BA%20%E4%BA%BA%20%E7%BD%91&tag=null&module=wc_0_%E5%90%8D%E7%AB%99%E5%AF%BC%E8%88%AA&spid=&ssuv=e4286c376fc94f4bb41ae3d8ee89eedc&suid=&yyid=&sduv=&seuv=&m=&apid=&loc=CN2301&sect=&sev=&ser=&skin=&ipt=&pid=AQ7CZ&sogou-hp=-2&pos=208_335&refer=&page=%E4%B8%8A%E7%BD%91%E5%AF%BC%E8%88%AA%20-%20%E8%BD%BB%E5%BF%AB%E4%B8%8A%E7%BD%91%20%E4%BB%8E%E8%BF%99%E9%87%8C%E5%BC%80%E5%A7%8B&pageUrl=http%3A%2F%2Fhao.qq.com%2F%3Func%3DAf31011%26s%3Do400493_1&_uiid=&_unc=Af31011&_logined=0&_sid=0&_cid=0&_v=0&productid=qqdaohang&ptype=index&pcode=index2&pstr=&deen=sogou&cuen=sogou&cuch=web HTTP/1.1
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 23 May 2015 07:03:38 GMT
+Content-Type: text/xml
+Content-Length: 0
+Connection: keep-alive
+
+GET http://www.renren.com/ HTTP/1.1
+HTTP/1.1 200 OK
+Server: nginx/1.2.0
+Date: Sat, 23 May 2015 07:03:38 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: jebecookies=e1f0e06a-f906-43ac-9c12-6f821e686747|||||; domain=.renren.com; path=/
+Content-Encoding: gzip
+
+186c
+?      Í[{sW?{?:JC¤ÖË²l³?KM&Ë†P;U©”«Õİ’·ºEw?Uv2óŠaBBdd2Á±y|˜QKö_??÷öSLvjS? vß¾çÜ{ÏûszÏK?;MU?}j?ÈºdÛå?ŸjH?Q?„©?uURğ£?&;Í”z¼¥Í–ûLÃQ'?????ïˆ„n??ËVòÑ·¦J	A„åÏ©£¯¥ö™¦äh=ŠèĞòFK?õĞñ?5Ôrb¿jË–Öt4Óˆ,Ş^_ÇŸî“ËBçË›î™ÓOï·?ÛkëŞøÂ]ıïîgéŞzÚ^¿…İ?¾°¹t¿´Ÿ|éş?ı{ù®{ıGLëÜ8ï®?çâ{‚{îK÷ô? 1ÇKSWî·7nOr|:ğµ×ÏlŞùº½ñI{ã{†f±ó?÷ÜİÎâÒ/¯c>Ó]>Ó^ÿ®{}­{öƒ..m}ñ°ıó%¼í^ù‡ûäÌìœ}??Ø\\r/]pï}Ìİ6ïŸ6­ë?w»§? ¡½zÛ}vusõûäãî?:?n$?>îŞZßüàoå?Hÿ?Ì™–bGÈ÷gM2UK¾©–j$ùY“î?ØB’ï„~´×?»×l}u&	?i?¶n?é^üÌ]?‰c¹g.$»Oou7ş’ÁİëIMn.so}›äNn?³õÕe¶Îõ{˜BÌó~€C};nØ¯5›º&CTL#uhdçx±ÍôÃ?#ÕÔƒRC?Ş€E ÇÆÇs9š–:«©siN??]?,»zâ¸,eÍ?{tÍ˜,U/'ìºi9r?4?B }*'??çS|¬n©Õr‚ôfR¥ô¼¡5ji?«Ò,MHYV?_U­rŸ D/á´j?[r}lsRSd³§	étºi?2?ŞÎ˜j“f%>š˜ùóBY8YSi¹®?“££Éàaz~r´ JÙ±’TMªÆìäI??9
+áÀŸ´l6F“ŒG4G%šNr&b¸g?=uj÷ˆc-'G?C1çÒ6?­rµeÈÄÓ»NÌJ??«ÖjÀºØIµ¬²©¨G?Df †“ÔËºÉ?©”uN?3±s×î­ºSJëªQs?•óï¾+½{§\Îì²T§eBv??D,Ú¹+m[rùíQ?v:<–h7UU?É±Åc6Û¤ÈÒÍzóÕ†jÛ@Pı½ºSz;óÎ®äÈhËÒ½ç,GÁD?#?<z»eSt¼w4±Ñ?iÇ|ït?q,Í¨íÜõNú˜?;GwŒâDáÎA½SN-×…ê®“x?rNNqëìÛÛDË©Âà’½…éÿ¿¬Föê,èª]WUÇW*&º²cS(;T(i¼TÌåDc^”MK+’­? DØF	 3¤¹fU0æ…r?Œ¶E­‚ƒÊ?ôB ŠŸ1æÓºY£ÇH„åã„Iá÷B(?˜ˆi-›§)˜H$G¬–¦L?f,ÖäßaX??
+¼«j;o?ª!(äÈ´åÌĞ¯2¿‡>­Ù³Z‹T%İVƒÑº¦ÀiG‡çÔJ"K?hğôî»ìTjZ¦ÒbJ?ÕR#ÒµR#ßÄ?R8¢k;}	¤v¼S#??FU«í<Ùš“'GX?ì@brà¢c¹L)XÔŸK'G-MT,©V????àÑ?
+¦ÖPè|1
+MSC@KµµÏ];nkóC6<Îs1&¢ëûÓC€¶‡l¾”Ïç£À45”UZ[ÌM„¬ÆÖ½ÙpSo5?KK™ñÕe>;W4	j7lñüÄXtã|r\ÕtµÕÔMI‚ TÈÄ?„H?šÁB?H2ùL?!@?ÉjİÔ??—‰Ÿ¥BDĞXfÂaW?hÀb!Jè·¢±Ì¹aé…§©! ,ª©ëƒOPÌecR??İúx±T ùª®ÊÎàõÇÇK¥˜ÛlrX‡y???eb¤³ıùäúøñb>%=?r=&_V1ç‡@Ã‹ÅvïÍÁy?n?F?PˆÌ1MİÑšCö’ÏåbX¼Ù!¸‡VR”ª¥©ÆpõŠ?f?~v?-?îúX?¸W[ƒù?Ê†I‘d?U>>ä ÿŒˆ~)Bİ‡¿C•y?hßV9)k–ÙÂ—>åö?ÿ@€C¾®Ù????^ËÆ??
+ß·„®?sªùb.f??á¡AÜFQ?YÃ„h?7ªo;ïè$Xƒy>Œˆ6X›uw±ç¹‘^Ëãm1Ø¿KK›•ä…Á{?ÇÜ¢??³‘pÆ‚^»â¡b }ˆféN2dOãùBÌÍy?H¢Æ,l­ù?q?Ts?Ôâærƒ¶D!Y×šs¨|ó…lI0ßCûµØlUt?25Ó÷€‡„rÃ¡Ç²Ìñ0yùT\?½ß<Ñˆ¨€I? ?õb`@&$ˆÇ8RBÜ™?³q?Ì¬b?l#Ği£l ÙÃÁøŸƒ?Ò`?‘Ù?İ£"+şzŒ\?¢¬"??c±˜ŞÛ‡é;.C,H<?Ê˜¬y(ã°!j©å?/²A?õÎŒÇ?	QÔ³|2îx‡ğ:?QŠE@áÍ9?®cÌm{x¹°Éš%ëCE;?DD›AÀk6P??p¸Q¾ÀU²†…YÅB¾÷²Ä‚Š(d? pS_??x?–r™m?`ìÔH?	pÔs
+ƒ´Q‡ÁdFœÓ??¤£G1ê‘S§õÁ\fÜï÷›?êAh.æ{®©òdƒg??5>íE/ÛÃ/ñã‘€€¥Uz.?¥RokUAw„C„‰w¶O¸ ôÀ’{iu^•I%CÙ™Ø‹k==†ÂÒs??IÙH²”N9ÎKo#àÔªï¤RSÛdx"´¢Ùt}ö“|,?<»”+eYT«n‹¸Šjÿ?™¼tğsÒV??nM?ÿîw#{ÍÑ??Ev”Šk÷Üë”VwO/£x€‚…{é¢»üÓ‘7D?Hæ÷% »m? P{D¾¦O®¡y›\©€LZ˜HKa?Îa‰äE¯^T1?AS?_€Õaév^^b´£´œ¢Í? ?1¤Ù½¸Ùú)??&X?¿T?z—?p&D?A .¥ê`?«ªÍG×ÅÖÌÔ³?å®hò~nn.?)?åDÀ@?  òƒBJ†yå…
+Q7üÚDaq?º~ÛY[?¯ĞP8$İù­Vüm?3??	b™ˆ??*Ş™©ŠVKkzeQD?b?®PRL{Yyo:ÔÅáX?C=r`;q1@?5ÎÄtE—Œ™PfT?S¨œ?ç^ÿªıä£î•‡›?¡šè®|½‡o¹o³á¢¤;–Z??H[çá]ÔÖ+F ?Å‚\Oc^Of|nn6²MqŞH+æ«¨îf3Ù|v‡å”³;ªeª|¼’í•ÜAü©Kfúøq_z?DMæ•üş×ªy€d_?m<™…L?‘ŸÎî¨•g‹´?ßÑöÇñÔ¥»qõHTG;+—ÜõÍÕÕ¾ÃØ­Z)ğÙ­f¹Ïè¡??{Ê]¹¸õÍr?+›w–bÛñ$?~?Élj#?˜òŒKŸÑ?¨ÚÒõ›è¥öâ‚¼F?"—Ì2? ¯ÀÇh?a´áÙS<+êM?R|¡¡êB?KR?)O?bb?'?‰MM?Y?ÌVÃÂÚ¦A?€Nì¯uTb‰©ğ? ıå[°›’ÁÖbe?ñZ[?6hOc*?ÊD?\:]m&?v³ò0?³ R|ŸbÀü |dš`²ä[Y7mÔ†¹é‹¥“l? ?}?dr?Ôœe"5>Õy??\¹ÛY~D¾û?Üûgº_.µ×.?~?}qØŒ?İ^CáûŒ»vÉ]yä®uOß…Cwıİ½t?Üzoµ»Š¶€Ï„=¶C+qÇŠøGEAVggfãP‚Ë[‹K??XêŞ\İ\½Õ~vaz??Û|?°µ7~BwÄÖGO;Şî^Û@? b{k¤rE`–ØZ5?°µ<Ê¼?·|S³¹ù^;_Üî\?X¨Õs? ıv”Şúàbç“›O?‚áñôËk??YF8éLÛÉÔéÅx|³ŸÃâc?ıçqŞã!X·t£s6ÿd˜ùÍ{?g»Ÿ\Şº?>PÓÈ?Ö“`ªRñĞ?q™Q”ZRºZu&3»ûHLêªŞŒšÅ???(??‘d‘ÕW›p2?<A¬i?vH™ÌNä“(à·|!—”5g?3™L~|?|ÚêW?eŸ§¿†¨„Ïz1^?>?^píàDï^ù¡½ş!ZrÚk?_\êŞ¹è~¿ûåÖÅÍo–Ğ”³ue©söâæûO¸Às>?ö¢kSîò—[×nA98?H??[?ë\ıiëê¿ß$2e¡ö¡ï®…“¸Òòõ¼Q‘aìƒ/&8w,¨´¥ª?2 Ú¬
+_˜ê~wŞ½øo¼ÖUÓjhÉª›ˆ?yK??8ˆw½?¦'‰ÕwƒRm<?¿N??Â§?????L3šèzáı.TˆH º¦?n|£Èf¥ø{Ú?eE?¨óåD6!ÌJz€¼[ET¹¨S?4ç”çï ‰?jeò\TğÄ?¾eÆ¾?dÖ„Ûæ€TÑí†{Ìñ>
+?§ê¹{lˆj&Œâøı-?#ü¥§zÖ€P+{  n<<çí:òø\A[‚r?Ÿ¢Q??×wŸ}JÍ`Ìùüò??"l„¼a|,KM;Ez™Â©p?V?)_à~øZr;^?Æ–fUq?? #Bp±`^.¢ıìs®ÈğS¥û?¡¼î»Ğ8÷ÒÎ?›‹§İÓß»§èÜX??s?İZ<Û¹wkëæÏ¿<^òø@?&?oÙÊû¨ÇÉ›¢ÌzŸhÜ“?8?òèI+õGQöå¸@âKvçû›è·C?7 ¸ÏvQ¡ó3ú³øÆ?H€O-N÷è ùŞÿ#YÀ}ÇH1‘Ğ9ëÑlĞ:¯zùè±‘I<½OLm?ÑÅâœIÿÄŒàÀœÔDI4?î~»á½ğ?X?Mj?fµÊ?+˜–´“Bõä«„?lÛßuŠ„ô ÀÙ×~ÂIQq?é.x'f?M}Z•ú|¦™†¾FeØf¢¦?ÔtOsÊèĞá@;,C)ÿIB!ÃB–ÌlìÜÅìç[`LĞùeÔTê‰?&?‡Vú>àæ(É¡
+S‹_!FDÿ¦oâF·b:ÈàG5EŠŠNGnYMK?}óõÀˆ{qG_áÉjF‰7ˆÂL
+gğp?uaZ??åùÁ®?N?,]dÄÃ¿Ÿİ?´¨?ƒ‹-ïßÑğ­4“Ã¸Mr.LWZ?^{Kr??c§‰1"´­A$4Û¸}tu‹ÓÕÇj¨_?å„×j	ûÎòde¿İ?JŒr*{?|%â´â›i?Z?€G??Ûâ ŠÚZ??HJ2à»¦`?Óè„»“’½I?b?ı“»ú?S²h??øŞ«{gv>?Ç€<eCX??FL·Ö_³‰?2İÖŒêPe²PÈ‹ÈŞ?©e£˜eQ<n?L\]? \'ÔW¡¹hyµÕ·¨µ˜ÌÃ[?ŒÅQ 2ªæ0—CJ9?=?4??ê„šdZZ<?WOäzÈ‹á‡l4?¥ğ+;?$})'ïá?‚fX?ÁÙé‘ÒƒÀŠ¤)-ºò®Ê’O9?w?D9G“Œd^Èv?ü‘?2Z}ÒRSKgKÔL?šœr?é7„i(£¼8QÌfÆˆ6?7Q i8Q?àTõ©5İò?–Å	%™Dg^§@?Ï€Ãó]>}¾˜ttİd/Â“³ÇcC„èĞxE‡f?=0?:ó˜?R?V/ŒgsEi¬”—Ç<f?©R?%
+?D?£'?i?/SFó¦ÔÒa)½\%??8À`ât?u×¿D&Oƒt?Â^’Ryê“Kg"r0€?¥ªæ›oş×±ÃÇK‡Œü‘CõÆÿs.{Xm??"È“ÆÅ"??z$Ñ?*ÑŞAúhÂÆcT?XüGÄşS+¾—d?:~S1?†cô¢"6æÀöÌÍ—ºØ?ŠÙ0¦÷:ËG¨krú˜ZQ?ÅŞ™İËê¿Šz#ÆİT°B<:
+m°f Oåo?÷`5i(ˆf[déüOŠ|®¿l íß?ñ¬K¿µ'[ÃŠò«Ñ‡?Yr™l!‹qK?eJ@NÕB€ß›íòÃ¦ŞjCÿºè?D°ÑşQ†¬?ïó/,Äj/¸Ô6ËÄ…nÀ“?£¯„¨<TIs???Š[›O¾çu2?Ï_?„VF˜²êQ?B@›j?ºÆÊİbÿQ??”ÄÙÔ‹”Úx?ÚHÚ¯º??tWD2?A7/ÓÓ'/<iæ®­ºç¾?nWD*zjpïbÓëëÃ¸õ²\~©ƒ¥nCâºŸqÏİt/-·ŸÜxqâò?™G¾NÅ}¸Wèİ–ºg/l^º½ueq?*h'M“µ??=?PÓø.00Iz*×¿ •À¬´#cşÙŠ…h]¨¿u~æ^>7pIEUºúq")İ¹?ÊI„P…•5~N­A)Í™¿9Q{Ø‡Gƒª¿ôåã€-œ~ˆä$/|<D¯˜?BR(ÔË ?ğîõÁ?¼É?@M:ç¯o.}Ê·ÓG‘•ó÷½Áó)r?§j?ıûín¬t×¿Göfà©?#*'ıàü¸?>CU5k/?_\vnxy?kp?ßŠÉë°}lşô5Ê¹?æÕûÙ­€T}ùQ?|{z~óÉ“áôãn&º}Ö ÅâùWgË¨j9tï›¶¬M»Z.??H;LMDó³ejÊ@2½èBu%XŸÜ?ŸvXR‚³½Ø:ıHp¿¢ÏcÙ·í??‚¾”J?5\ta?P??V$?¡½?ròG¸áÛÜPuQká•??Gá×[`çj¯®©\¦É
+?#ÆÑ?×½? ?÷ÂÕöú÷îÅ?ßŞ?w®İïŞ¹Ü9·ˆ2>¯E=`ëÚ%&óŒZ¾æİ¼ÿ9Ğd²™T©P(e?|bàî¨¶æ˜“’‚?‹ä?p?ÀŞ	D?J?7¸Ÿ/†GXCêó­Oâ[Ü­?m?•’{›îgK(;ÂÖN¡÷¨sîcw?jèÜ?°Ãîõ{ Cçöã¬?zˆ¢?R]sªQoIdğ—}…J?«ÏÖUbâ¤?5çwWOâwªl??E?‰©h??2n°´hœÅWH'X*C??zEQºG»m?ÈtÍœ¥K?â×??+(?(2?‰Ë¹è˜ûñ¡»¦‹ûîßûÚ½¥½è.?0?±obïÄÁ‰±Â?d!z?’B2òÉo#œÌ¿ƒ¿Å?"êö1©w—d?šVQqö÷:p…C?#Õš™ÈäÆ
+1{†èÉå?»±•±ù?jvç”?•@?»OÏ»_?è|úal×ÌA°hoÛî1tf²¯F"?ìvğœ2d˜}??R??_:?LéÓÒª@  
+0
+
+GET http://icode.renren.com/getcode.do?t=web_login&rnd=Math.random() HTTP/1.1
+HTTP/1.1 200 OK
+Server: nginx/1.2.0
+Date: Sat, 23 May 2015 07:03:38 GMT
+Content-Type: image/jpeg
+Content-Length: 2483
+Connection: keep-alive
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+P3P: CP="NON DSP COR CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa CONa HISa TELa OTPa OUR UNRa IND UNI COM NAV INT DEM CNT PRE LOC"
+ETag: "+cDxMkIVSVD"
+Last-Modified: Sat, 23 May 2015 06:55:54 GMT
+Set-Cookie: ick_login=fd6307d1-53e5-4252-a806-27e45058c002; domain=.renren.com; path=/
+
+ÿ?? JFIF      ÿ? C 		
+ $.' ",#(7),01444'9=82<.342ÿ? C			2!!22222222222222222222222222222222222222222222222222ÿ?  - x" ÿ?           	
+ÿ? ?   } !1AQa"q2‘?#B±ÁRÑğ$3br?
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚáâãäåæçèéêñòóôõö÷øù??        	
+ÿ? ?  w !1AQaq"2?B‘¡±Á	#3R?br?$4??&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz‚ƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãäåæçèéêòóôõö÷øùúÿ?   ? ÷¹g? Œôã5?¸×2Er€ÏÜ3Œ9æfşTå‘`ÅL,ª[?ø ¬ë9lI
+ce? ùx~¹Ál?¢ŸS?ÜRÔ“M?;‹–YeÈØY†Åqzzs?SÕîÌëln‚Å 	*í\Ùvşµr¸Ok2C0°±fWLMréŸ— P}:Íi?u\ÇÚÊsºĞìÖ??dÊ´L:uŒa{zV—ö…×üõÿ ÇGøWà­FI?òŞ\3˜§d?q€q§­]¹ñ´P³ïXÆ~VcÔ{õq÷ÊJ½Gd?	õ‰-bigºHãQ’Ì  Ve¦»kmÉc>èœ?Ï¶x…q²ø›N¾•?Pa‡Ì?tÇÖ¹½
+Üêºœ‘¡khB—c??é]??ëúØì?•{òg¦[ø®?"§›päıìñúŒÂªk-Öí¬š?i?Àb	ÇŞ?k”ŸU¿ğî¡µä‚îÍÀ*??N¤~¼t­}`ìç?#ÀÌ¼}?ò§=>Vº¯ëúÜÚÑN?ƒüOa};ÈÍxÉµÚe,¤ğq¸qß¿<×ewz‘i?QH?˜ÈÈâş	¼Hc½iv¸Ï©àı{VíÕ½ÄæKÈw?ÒX+•y€oŒ{OÓ¥B¢¥Ğ;¦îu:n?ËMq-ÏïRö¨İÈ c?®ªw?aÊ‚ÃĞâ¹j©ç.?¡…‡¨b‰Ïn?{ñÒ?åq´™„U?ê×-i§I,r?œrr=}³ETÖá¸šëNXVB‚\¹\àt?éŞŠv1?JZ6ŠŞ"C,? €ˆa??xùsNk;O¸óšíOXçeêOºŸåÅvL#(b¤ŒÈ÷æ¹5?!>\,ÌìYrOsUÏhÚÂ??2=SP‹JÓg½›îÄ?ûÇ°üN+…[Uÿ „búîú@u-S€G*ƒ?ÏÓ•Úø—Â÷úŞ?´Id˜H|? Ùõ®fëá¶®me¸š?‘¡qiHÆK~¸©–¯RiSQW’~?5¥Ùı?Îå??é]¦‘oyk?\ïA '?õû?‘áÖñ¶ R÷–±‰áŒ?L{‘Z>W?¹µ’W„[F?Y?ÁË~YÏZê§ìÚ\®ÉZÒjkGd?È¥?	Ú®ŸçiàÃ7B„–R;úœ?*£àVßNŠò?????Àãß½^×¯­b¼û<?%†õ?ÎzwíÖ°ïí®¬5?ÖG”ÅËmïò?—ô­]¯x½¿®æ±Fÿ KT•õÍZ)YLVë„9 •\äŸçúWS.¤ób+X¦X±ƒ ?ÿ ?‰ü?Ã–vš¾“—„ùĞÈF? 7?¯§jé’	¢‡¼Ì òÛAo?ªœ/??£}/ı}?áĞlµ×?Ïµ‘Q€Hê}?®Á¿µg‘¢‚5aƒógŠågÓ¼]ì¶²[Àó´¸?1?Éë]ÅŒ7rD°¬?ïOj)8¤Õ¶õ?´š? àv·s*ÚÚğ^,&`6²¨òóÔ:sık°³ğô·¶?íõÑg2H?üÍhØèĞC'‚IeÁs“Æ:cÓëVuwşÈ?©Û?„ñœœ?™ë\uj.fâ—Üe)%²_ŸæY·„Án?d—`Æù,~¦ŠÍÑÂµíô‘FòÂ ??âŠÁK›R¾¥+?ò]n[”‡1µÕ»nc
+C÷úqŞ±cYb¿Ò¬¯l3ì‘ò¡X£¯=óøf»ê¦t???G3`>Ğ§v=rn8ÅT?•¿®‚iŞè§f÷zn…m??LnR-…Ï>„t?s?ÓãæÌÁ5.[?ôõÅX¼±‚ùfPv? ‘‘ãñü2m2Ú[t…S? ?@)VLf›iëÔ­çw±áohúRÿ hi­pæxön™Á g‘€ ?JóÏ?ƒül/`¶d¶yŒÑ#ck¡áÓŒ€HÇP¯b´µŠÊ?hA ÀÉæ²üEá›/[AãHL›ÕâÀlcdƒÁãòA¨¿"“I???©bßIÓMÎ£*şí¬Ğ?õéĞŸ`=??ğB<?¥óOuÃ–eV’Ä?ã¦}x…¦?^‘lĞXÙE0Ãœeœ{±äÕø¢XWj?9ùœ·ó4s4ı×`æ}"Ğ|=©øoX??,7n?EŞ¹İ€??¼óŠèÖT?=ÙVşĞ[o(F?ÕŸâük¹’?¥I$RÌ‡+??3Iqk×•??A*rFt<V¯(?9İİ”c?TbEiA?ñù
+Ğ†m??Fƒ¢¢€*J+9NRİƒm?QEH‚Š(?ÿ?
+
+GET http://dj.renren.com/unfocus?J={"ID":null,"R":"http%3A%2F%2Fwww.renren.com%2F"}&t=0.26949929028275943 HTTP/1.1
+GET http://dj.renren.com/focus?J={"ID":null,"R":"http%3A%2F%2Fwww.renren.com%2F"}&t=0.4442848537088713 HTTP/1.1
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 23 May 2015 07:04:00 GMT
+Content-Type: image/png; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+0
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 23 May 2015 07:04:00 GMT
+Content-Type: image/png; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+0
+
+GET http://www.renren.com/ HTTP/1.1
+HTTP/1.1 200 OK
+Server: nginx/1.2.0
+Date: Sat, 23 May 2015 07:04:07 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: jebecookies=992ce19a-f07c-4751-9e4e-e0f97b9a7cec|||||; domain=.renren.com; path=/
+Content-Encoding: gzip
+
+186c
+?      Í[{sW?{?:JC¤ÖË²l³?KM&Ë†P;U©”«Õİ’·ºEw?Uv2óŠaBBdd2Á±y|˜QKö_??÷öSLvjS? vß¾çÜ{ÏûszÏK?;MU?}j?ÈºdÛå?ŸjH?Q?„©?uURğ£?&;Í”z¼¥Í–ûLÃQ'?????ïˆ„n??ËVòÑ·¦J	A„åÏ©£¯¥ö™¦äh=ŠèĞòFK?õĞñ?5Ôrb¿jË–Öt4Óˆ,Ş^_ÇŸî“ËBçË›î™ÓOï·?ÛkëŞøÂ]ıïîgéŞzÚ^¿…İ?¾°¹t¿´Ÿ|éş?ı{ù®{ıGLëÜ8ï®?çâ{‚{îK÷ô? 1ÇKSWî·7nOr|:ğµ×ÏlŞùº½ñI{ã{†f±ó?÷ÜİÎâÒ/¯c>Ó]>Ó^ÿ®{}­{öƒ..m}ñ°ıó%¼í^ù‡ûäÌìœ}??Ø\\r/]pï}Ìİ6ïŸ6­ë?w»§? ¡½zÛ}vusõûäãî?:?n$?>îŞZßüàoå?Hÿ?Ì™–bGÈ÷gM2UK¾©–j$ùY“î?ØB’ï„~´×?»×l}u&	?i?¶n?é^üÌ]?‰c¹g.$»Oou7ş’ÁİëIMn.so}›äNn?³õÕe¶Îõ{˜BÌó~€C};nØ¯5›º&CTL#uhdçx±ÍôÃ?#ÕÔƒRC?Ş€E ÇÆÇs9š–:«©siN??]?,»zâ¸,eÍ?{tÍ˜,U/'ìºi9r?4?B }*'??çS|¬n©Õr‚ôfR¥ô¼¡5ji?«Ò,MHYV?_U­rŸ D/á´j?[r}lsRSd³§	étºi?2?ŞÎ˜j“f%>š˜ùóBY8YSi¹®?“££Éàaz~r´ JÙ±’TMªÆìäI??9
+áÀŸ´l6F“ŒG4G%šNr&b¸g?=uj÷ˆc-'G?C1çÒ6?­rµeÈÄÓ»NÌJ??«ÖjÀºØIµ¬²©¨G?Df †“ÔËºÉ?©”uN?3±s×î­ºSJëªQs?•óï¾+½{§\Îì²T§eBv??D,Ú¹+m[rùíQ?v:<–h7UU?É±Åc6Û¤ÈÒÍzóÕ†jÛ@Pı½ºSz;óÎ®äÈhËÒ½ç,GÁD?#?<z»eSt¼w4±Ñ?iÇ|ït?q,Í¨íÜõNú˜?;GwŒâDáÎA½SN-×…ê®“x?rNNqëìÛÛDË©Âà’½…éÿ¿¬Föê,èª]WUÇW*&º²cS(;T(i¼TÌåDc^”MK+’­? DØF	 3¤¹fU0æ…r?Œ¶E­‚ƒÊ?ôB ŠŸ1æÓºY£ÇH„åã„Iá÷B(?˜ˆi-›§)˜H$G¬–¦L?f,ÖäßaX??
+¼«j;o?ª!(äÈ´åÌĞ¯2¿‡>­Ù³Z‹T%İVƒÑº¦ÀiG‡çÔJ"K?hğôî»ìTjZ¦ÒbJ?ÕR#ÒµR#ßÄ?R8¢k;}	¤v¼S#??FU«í<Ùš“'GX?ì@brà¢c¹L)XÔŸK'G-MT,©V????àÑ?
+¦ÖPè|1
+MSC@KµµÏ];nkóC6<Îs1&¢ëûÓC€¶‡l¾”Ïç£À45”UZ[ÌM„¬ÆÖ½ÙpSo5?KK™ñÕe>;W4	j7lñüÄXtã|r\ÕtµÕÔMI‚ TÈÄ?„H?šÁB?H2ùL?!@?ÉjİÔ??—‰Ÿ¥BDĞXfÂaW?hÀb!Jè·¢±Ì¹aé…§©! ,ª©ëƒOPÌecR??İúx±T ùª®ÊÎàõÇÇK¥˜ÛlrX‡y???eb¤³ıùäúøñb>%=?r=&_V1ç‡@Ã‹ÅvïÍÁy?n?F?PˆÌ1MİÑšCö’ÏåbX¼Ù!¸‡VR”ª¥©ÆpõŠ?f?~v?-?îúX?¸W[ƒù?Ê†I‘d?U>>ä ÿŒˆ~)Bİ‡¿C•y?hßV9)k–ÙÂ—>åö?ÿ@€C¾®Ù????^ËÆ??
+ß·„®?sªùb.f??á¡AÜFQ?YÃ„h?7ªo;ïè$Xƒy>Œˆ6X›uw±ç¹‘^Ëãm1Ø¿KK›•ä…Á{?ÇÜ¢??³‘pÆ‚^»â¡b }ˆféN2dOãùBÌÍy?H¢Æ,l­ù?q?Ts?Ôâærƒ¶D!Y×šs¨|ó…lI0ßCûµØlUt?25Ó÷€‡„rÃ¡Ç²Ìñ0yùT\?½ß<Ñˆ¨€I? ?õb`@&$ˆÇ8RBÜ™?³q?Ì¬b?l#Ği£l ÙÃÁøŸƒ?Ò`?‘Ù?İ£"+şzŒ\?¢¬"??c±˜ŞÛ‡é;.C,H<?Ê˜¬y(ã°!j©å?/²A?õÎŒÇ?	QÔ³|2îx‡ğ:?QŠE@áÍ9?®cÌm{x¹°Éš%ëCE;?DD›AÀk6P??p¸Q¾ÀU²†…YÅB¾÷²Ä‚Š(d? pS_??x?–r™m?`ìÔH?	pÔs
+ƒ´Q‡ÁdFœÓ??¤£G1ê‘S§õÁ\fÜï÷›?êAh.æ{®©òdƒg??5>íE/ÛÃ/ñã‘€€¥Uz.?¥RokUAw„C„‰w¶O¸ ôÀ’{iu^•I%CÙ™Ø‹k==†ÂÒs??IÙH²”N9ÎKo#àÔªï¤RSÛdx"´¢Ùt}ö“|,?<»”+eYT«n‹¸Šjÿ?™¼tğsÒV??nM?ÿîw#{ÍÑ??Ev”Šk÷Üë”VwO/£x€‚…{é¢»üÓ‘7D?Hæ÷% »m? P{D¾¦O®¡y›\©€LZ˜HKa?Îa‰äE¯^T1?AS?_€Õaév^^b´£´œ¢Í? ?1¤Ù½¸Ùú)??&X?¿T?z—?p&D?A .¥ê`?«ªÍG×ÅÖÌÔ³?å®hò~nn.?)?åDÀ@?  òƒBJ†yå…
+Q7üÚDaq?º~ÛY[?¯ĞP8$İù­Vüm?3??	b™ˆ??*Ş™©ŠVKkzeQD?b?®PRL{Yyo:ÔÅáX?C=r`;q1@?5ÎÄtE—Œ™PfT?S¨œ?ç^ÿªıä£î•‡›?¡šè®|½‡o¹o³á¢¤;–Z??H[çá]ÔÖ+F ?Å‚\Oc^Of|nn6²MqŞH+æ«¨îf3Ù|v‡å”³;ªeª|¼’í•ÜAü©Kfúøq_z?DMæ•üş×ªy€d_?m<™…L?‘ŸÎî¨•g‹´?ßÑöÇñÔ¥»qõHTG;+—ÜõÍÕÕ¾ÃØ­Z)ğÙ­f¹Ïè¡??{Ê]¹¸õÍr?+›w–bÛñ$?~?Élj#?˜òŒKŸÑ?¨ÚÒõ›è¥öâ‚¼F?"—Ì2? ¯ÀÇh?a´áÙS<+êM?R|¡¡êB?KR?)O?bb?'?‰MM?Y?ÌVÃÂÚ¦A?€Nì¯uTb‰©ğ? ıå[°›’ÁÖbe?ñZ[?6hOc*?ÊD?\:]m&?v³ò0?³ R|ŸbÀü |dš`²ä[Y7mÔ†¹é‹¥“l? ?}?dr?Ôœe"5>Õy??\¹ÛY~D¾û?Üûgº_.µ×.?~?}qØŒ?İ^CáûŒ»vÉ]yä®uOß…Cwıİ½t?Üzoµ»Š¶€Ï„=¶C+qÇŠøGEAVggfãP‚Ë[‹K??XêŞ\İ\½Õ~vaz??Û|?°µ7~BwÄÖGO;Şî^Û@? b{k¤rE`–ØZ5?°µ<Ê¼?·|S³¹ù^;_Üî\?X¨Õs? ıv”Şúàbç“›O?‚áñôËk??YF8éLÛÉÔéÅx|³ŸÃâc?ıçqŞã!X·t£s6ÿd˜ùÍ{?g»Ÿ\Şº?>PÓÈ?Ö“`ªRñĞ?q™Q”ZRºZu&3»ûHLêªŞŒšÅ???(??‘d‘ÕW›p2?<A¬i?vH™ÌNä“(à·|!—”5g?3™L~|?|ÚêW?eŸ§¿†¨„Ïz1^?>?^píàDï^ù¡½ş!ZrÚk?_\êŞ¹è~¿ûåÖÅÍo–Ğ”³ue©söâæûO¸Às>?ö¢kSîò—[×nA98?H??[?ë\ıiëê¿ß$2e¡ö¡ï®…“¸Òòõ¼Q‘aìƒ/&8w,¨´¥ª?2 Ú¬
+_˜ê~wŞ½øo¼ÖUÓjhÉª›ˆ?yK??8ˆw½?¦'‰ÕwƒRm<?¿N??Â§?????L3šèzáı.TˆH º¦?n|£Èf¥ø{Ú?eE?¨óåD6!ÌJz€¼[ET¹¨S?4ç”çï ‰?jeò\TğÄ?¾eÆ¾?dÖ„Ûæ€TÑí†{Ìñ>
+?§ê¹{lˆj&Œâøı-?#ü¥§zÖ€P+{  n<<çí:òø\A[‚r?Ÿ¢Q??×wŸ}JÍ`Ìùüò??"l„¼a|,KM;Ez™Â©p?V?)_à~øZr;^?Æ–fUq?? #Bp±`^.¢ıìs®ÈğS¥û?¡¼î»Ğ8÷ÒÎ?›‹§İÓß»§èÜX??s?İZ<Û¹wkëæÏ¿<^òø@?&?oÙÊû¨ÇÉ›¢ÌzŸhÜ“?8?òèI+õGQöå¸@âKvçû›è·C?7 ¸ÏvQ¡ó3ú³øÆ?H€O-N÷è ùŞÿ#YÀ}ÇH1‘Ğ9ëÑlĞ:¯zùè±‘I<½OLm?ÑÅâœIÿÄŒàÀœÔDI4?î~»á½ğ?X?Mj?fµÊ?+˜–´“Bõä«„?lÛßuŠ„ô ÀÙ×~ÂIQq?é.x'f?M}Z•ú|¦™†¾FeØf¢¦?ÔtOsÊèĞá@;,C)ÿIB!ÃB–ÌlìÜÅìç[`LĞùeÔTê‰?&?‡Vú>àæ(É¡
+S‹_!FDÿ¦oâF·b:ÈàG5EŠŠNGnYMK?}óõÀˆ{qG_áÉjF‰7ˆÂL
+gğp?uaZ??åùÁ®?N?,]dÄÃ¿Ÿİ?´¨?ƒ‹-ïßÑğ­4“Ã¸Mr.LWZ?^{Kr??c§‰1"´­A$4Û¸}tu‹ÓÕÇj¨_?å„×j	ûÎòde¿İ?JŒr*{?|%â´â›i?Z?€G??Ûâ ŠÚZ??HJ2à»¦`?Óè„»“’½I?b?ı“»ú?S²h??øŞ«{gv>?Ç€<eCX??FL·Ö_³‰?2İÖŒêPe²PÈ‹ÈŞ?©e£˜eQ<n?L\]? \'ÔW¡¹hyµÕ·¨µ˜ÌÃ[?ŒÅQ 2ªæ0—CJ9?=?4??ê„šdZZ<?WOäzÈ‹á‡l4?¥ğ+;?$})'ïá?‚fX?ÁÙé‘ÒƒÀŠ¤)-ºò®Ê’O9?w?D9G“Œd^Èv?ü‘?2Z}ÒRSKgKÔL?šœr?é7„i(£¼8QÌfÆˆ6?7Q i8Q?àTõ©5İò?–Å	%™Dg^§@?Ï€Ãó]>}¾˜ttİd/Â“³ÇcC„èĞxE‡f?=0?:ó˜?R?V/ŒgsEi¬”—Ç<f?©R?%
+?D?£'?i?/SFó¦ÔÒa)½\%??8À`ât?u×¿D&Oƒt?Â^’Ryê“Kg"r0€?¥ªæ›oş×±ÃÇK‡Œü‘CõÆÿs.{Xm??"È“ÆÅ"??z$Ñ?*ÑŞAúhÂÆcT?XüGÄşS+¾—d?:~S1?†cô¢"6æÀöÌÍ—ºØ?ŠÙ0¦÷:ËG¨krú˜ZQ?ÅŞ™İËê¿Šz#ÆİT°B<:
+m°f Oåo?÷`5i(ˆf[déüOŠ|®¿l íß?ñ¬K¿µ'[ÃŠò«Ñ‡?Yr™l!‹qK?eJ@NÕB€ß›íòÃ¦ŞjCÿºè?D°ÑşQ†¬?ïó/,Äj/¸Ô6ËÄ…nÀ“?£¯„¨<TIs???Š[›O¾çu2?Ï_?„VF˜²êQ?B@›j?ºÆÊİbÿQ??”ÄÙÔ‹”Úx?ÚHÚ¯º??tWD2?A7/ÓÓ'/<iæ®­ºç¾?nWD*zjpïbÓëëÃ¸õ²\~©ƒ¥nCâºŸqÏİt/-·ŸÜxqâò?™G¾NÅ}¸Wèİ–ºg/l^º½ueq?*h'M“µ??=?PÓø.00Iz*×¿ •À¬´#cşÙŠ…h]¨¿u~æ^>7pIEUºúq")İ¹?ÊI„P…•5~N­A)Í™¿9Q{Ø‡Gƒª¿ôåã€-œ~ˆä$/|<D¯˜?BR(ÔË ?ğîõÁ?¼É?@M:ç¯o.}Ê·ÓG‘•ó÷½Áó)r?§j?ıûín¬t×¿Göfà©?#*'ıàü¸?>CU5k/?_\vnxy?kp?ßŠÉë°}lşô5Ê¹?æÕûÙ­€T}ùQ?|{z~óÉ“áôãn&º}Ö ÅâùWgË¨j9tï›¶¬M»Z.??H;LMDó³ejÊ@2½èBu%XŸÜ?ŸvXR‚³½Ø:ıHp¿¢ÏcÙ·í??‚¾”J?5\ta?P??V$?¡½?ròG¸áÛÜPuQká•??Gá×[`çj¯®©\¦É
+?#ÆÑ?×½? ?÷ÂÕöú÷îÅ?ßŞ?w®İïŞ¹Ü9·ˆ2>¯E=`ëÚ%&óŒZ¾æİ¼ÿ9Ğd²™T©P(e?|bàî¨¶æ˜“’‚?‹ä?p?ÀŞ	D?J?7¸Ÿ/†GXCêó­Oâ[Ü­?m?•’{›îgK(;ÂÖN¡÷¨sîcw?jèÜ?°Ãîõ{ Cçöã¬?zˆ¢?R]sªQoIdğ—}…J?«ÏÖUbâ¤?5çwWOâwªl??E?‰©h??2n°´hœÅWH'X*C??zEQºG»m?ÈtÍœ¥K?â×??+(?(2?‰Ë¹è˜ûñ¡»¦‹ûîßûÚ½¥½è.?0?±obïÄÁ‰±Â?d!z?’B2òÉo#œÌ¿ƒ¿Å?"êö1©w—d?šVQqö÷:p…C?#Õš™ÈäÆ
+1{†èÉå?»±•±ù?jvç”?•@?»OÏ»_?è|úal×ÌA°hoÛî1tf²¯F"?ìvğœ2d˜}??R??_:?LéÓÒª@  
+0
+
+GET http:/G/ET http://s.xnimg.cn/n/apps/photo/modules/seed/photoSeed.js?r=1432364651430 HTTP/1.1ebp.
+renren.com/ebpn/show?ref=http://www.renren.com/ad_100000000061&r=http%3A%2F%2Fwww.renren.com%2FSysHome.do HTTP/1.1
+HTTP/1.1 200 OK
+Server: Tengine/2.0.2
+Date: Sat, 23 May 2015 07:04:07 GMT
+Content-Type: application/x-javascript
+Content-Length: 893
+Last-Modified: Tue, 06 Mar 2012 08:41:41 GMT
+Connection: keep-alive
+ETag: "4f55cdc5-37d"
+Expires: Sun, 22 May 2016 07:04:07 GMT
+Cache-Control: max-age=31536000
+Accept-Ranges: bytes
+
+XN.photoSeedHandler({
+    'exec': ['http://s.xnimg.cn/a34087/n/core/modules/flashUploader/flashUploaderSeed.js', 'http://s.xnimg.cn/a34082/n/apps/photo/modules/photo-view/js/photoViewerCtr.js'],
+    'preLoad': ['http://s.xnimg.cn/n/core/modules/flashUploader/pic_uploader_v7.2.swf'],
+    'version': [
+        'http://s.xnimg.cn/a34087/n/core/modules/flashUploader/flashUploader.js',
+        'http://s.xnimg.cn/a33750/n/core/modules/flashUploader/upload-pop-all-min.css',
+        'http://s.xnimg.cn/a34100/n/apps/photo/modules/photo-view/photo-view-new-div-all-min.css',
+        'http://s.xnimg.cn/a34101/n/apps/photo/modules/photo-view/js/photoViewerSparta-div.js',
+        'http://s.xnimg.cn/a31265/jspro/album/commentManage.js',
+        'http://s.xnimg.cn/a28841/csspro/module/replies.cssH'T,TP
+/ 1 .1  200 OK
+Server: ng i    'http://s.xnimg.cn/a34103/n/apps/photo/modules/libs/tagnPhoto-div.js'
+    ]
+});
+x/1.2.0
+Date: Sat, 23 May 2015 07:04:07 GMT
+Content-Type: application/x-javascript; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: an_slot=6434; path=/ebpn
+Expires: Sat, 23 May 2015 07:04:06 GMT
+Cache-Control: no-cache
+Content-Encoding: gzip
+
+2d6
+?      mTËn›@İû+ĞH?ÀÌ€Á¦BUµ_ĞtGÃØ”?üh-¯ª>ÔU»­)›Hı€,RµR&q•¿?ÀØ¸sÏ}Í}ÌÔ?0?OÅU-EA~[oÊDÎÓ9È²°m¢ã
+?Ì´‰İ-‘I˜ùóxR01?P#WJ??Y(??`5ñ¼@Š£?°SªÏ¢úš°yáE)?xÌC:¸|×Ãh’½â]à†ë‡ïÓ"	?êÇ"hK"—^ë­¢œ5”¢&[4˜ñp???j4¦wñuš¤?9,VÂ‹>
+Äk8I9}„û?ŞŠ¨d‹"st=Ôf~?–ÀÒ‚4Ösè„v,?´qGÏ‡"vÇƒAeA?^ªëC?¤«¢û!?T‡tĞSM†‡j¯ktUb!³»Ø¦!?²Ñ&?~4©B+yC?Ø’“p?¡À£dÓuØûé£?±›	¨q??FÎ“T?|ZUT)KJb`S––>??¼ˆ?ĞÃ§?~ª÷?n>?^ŞİßıP_]ı]}½QeN~İvV—_¨¡ş»½^]}3?O??z»ì???²ïëJ±A¶]'?z)V•Éç¡{?GqàâvçåI? Ğ`•@-UşL?–i™öZ¶mµOH¯g¨˜À‚•\S"¸kQ7c"Yd’ÍäàÚB?ÕÙxÃrÎšàÖ¯z$ØP0?ˆ€¹¸ağp;–Œ8L?dWB®LaÛxÑ¦¯`Íf³­DšeÛß¤İ?IÌBîCIø¦$ò¦Óæ	GZìkTa4·Ó–M?ÉQqG¥†B:6lğ&¼HE?h^??y^SË’wŞZ>kµşd}vÔ¨  
+0
+
+
+
+
+GET http://dj.renren.com/focus?J={"ID":null,"R":"http%3A%2F%2Fwww.renren.com%2F"}&t=0.28368101349343 HTTP/1.GET htt1
+p://dj.renren.com/unfocus?J={"ID":null,"R":"http%3A%2F%2Fwww.renren.com%2F"}&t=0.3091524831120477 HTTP/1.1
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 23 May 2015 07:04:33 GMT
+Content-Type: image/png; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+0
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 23 May 2015 07:04:33 GMT
+Content-Type: image/png; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+0
+
+
+
+
+GET http://pb.sogou.com/pv.gif?uigs_productid=ufo&ufoid=qqdaohang&rdk=1432364685176&img=ct.gif&url=http%3A%2F%2Fwww.renren.com%2F&urlName=%E4%BA%BA%20%E4%BA%BA%20%E7%BD%91&tag=null&module=wc_0_%E5%90%8D%E7%AB%99%E5%AF%BC%E8%88%AA&spid=&ssuv=e4286c376fc94f4bb41ae3d8ee89eedc&suid=&yyid=&sduv=&seuv=&m=&apid=&loc=CN2301&sect=&sev=&ser=&skin=&ipt=&pid=AQ7CZ&sogou-hp=-2&pos=216_332&refer=&page=%E4%B8%8A%E7%BD%91%E5%AF%BC%E8%88%AA%20-%20%E8%BD%BB%E5%BF%AB%E4%B8%8A%E7%BD%91%20%E4%BB%8E%E8%BF%99%E9%87%8C%E5%BC%80%E5%A7%8B&pageUrl=http%3A%2F%2Fhao.qq.com%2F%3Func%3DAf31011%26s%3Do400493_1&_uiid=&_unc=Af31011&_logined=0&_sid=0&_cid=0&_v=0&productid=qqdaohang&ptype=index&pcode=index2&pstr=&deen=sogou&cuen=sogou&cuch=web HTTP/1.1
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 23 May 2015 07:04:41 GMT
+Content-Type: text/xml
+Content-Length: 0
+Connection: keep-alive
+
+GET http://www.renren.com/favicon.ico HTTP/1.1
+HTTP/1.1 200 OK
+Server: nginx/1.2.0
+Date: Sat, 23 May 2015 07:04:41 GMT
+Content-Length: 0
+Connection: keep-alive
+ETag: "BHr9RBi9W0g"
+Last-Modified: Wed, 29 Apr 2015 07:20:28 GMT
+
+
